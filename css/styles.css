@@ -32,3 +32,8 @@ main {
     grid-row: 3 / 4;
     background-color: rgb(233, 227, 227);
 }
+
+.items {
+    grid-column: 2 / -2;
+    grid-row: 4 / -1;
+}
