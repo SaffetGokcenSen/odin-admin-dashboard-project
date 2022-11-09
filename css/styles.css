@@ -38,3 +38,8 @@ main {
     grid-row: 4 / -1;
     background-color: rgb(233, 227, 227);
 }
+
+.announce-trend {
+    grid-column: -2 / -1;
+    grid-row: 4 / -1;
+}
