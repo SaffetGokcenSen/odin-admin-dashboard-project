@@ -24,4 +24,5 @@ main {
 .title-1 {
     grid-column: 2 / 4;
     grid-row: 3 / 4;
+    background-color: rgb(233, 227, 227);
 }
