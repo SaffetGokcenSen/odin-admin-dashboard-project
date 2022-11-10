@@ -16,6 +16,7 @@ main {
     grid-row: 1 / -1;
     display: flex;
     flex-direction: column;
+    color: white;
 }
 
 .sidebar-group1 {
