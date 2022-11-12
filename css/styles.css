@@ -17,6 +17,16 @@ main {
     display: flex;
     flex-direction: column;
     color: white;
+    gap: 20px;
+    padding-left: 10px;
+}
+
+.sidebar > div{
+    margin-top: 1rem;
+}
+
+.sidebar > div > div {
+    margin-top: 0.5rem;
 }
 
 .sidebar-group1 {
