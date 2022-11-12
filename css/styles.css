@@ -29,14 +29,20 @@ main {
     margin-top: 0.5rem;
 }
 
+.sidebar-title {
+    font-size: 2.5rem;
+}
+
 .sidebar-group1 {
     display: flex;
     flex-direction: column;
+    font-size: 1.5rem;
 }
 
 .sidebar-group2 {
     display: flex;
     flex-direction: column;
+    font-size: 1.5rem;
 }
 
 .header {
