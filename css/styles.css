@@ -46,6 +46,11 @@ main {
     font-weight: bold;
 }
 
+.home-icon {
+    width: 24px;
+    height: 24px;
+}
+
 .sidebar-group2 {
     display: flex;
     flex-direction: column;
