@@ -56,6 +56,11 @@ main {
     height: 24px;
 }
 
+.messages-icon {
+    width: 24px;
+    height: 24px;
+}
+
 .sidebar-group2 {
     display: flex;
     flex-direction: column;
