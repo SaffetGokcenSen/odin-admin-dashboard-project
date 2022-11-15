@@ -46,37 +46,8 @@ main {
     font-weight: bold;
 }
 
-.home-icon {
-    width: 24px;
-    height: 24px;
-}
-
-.profile-icon {
-    width: 24px;
-    height: 24px;
-}
-
-.messages-icon {
-    width: 24px;
-    height: 24px;
-}
-
-.history-icon {
-    width: 24px;
-    height: 24px;
-}
-
-.tasks-icon {
-    width: 24px;
-    height: 24px;
-}
-
-.communities-icon {
-    width: 24px;
-    height: 24px;
-}
-
-.settings-icon {
+.home-icon, .profile-icon, .messages-icon, .history-icon, .tasks-icon, 
+.communities-icon, .settings-icon {
     width: 24px;
     height: 24px;
 }
