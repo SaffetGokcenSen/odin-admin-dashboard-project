@@ -47,7 +47,7 @@ main {
 }
 
 .home-icon, .profile-icon, .messages-icon, .history-icon, .tasks-icon, 
-.communities-icon, .settings-icon {
+.communities-icon, .settings-icon, .support-icon {
     width: 24px;
     height: 24px;
 }
