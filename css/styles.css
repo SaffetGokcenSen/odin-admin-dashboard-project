@@ -49,7 +49,7 @@ main {
     font-weight: bold;
 }
 
-.home-subtitle, .profile-subtitle {
+.home-subtitle, .profile-subtitle, .messages-subtitle {
     display: flex;
     align-items: center;
     gap: 1.4rem;
