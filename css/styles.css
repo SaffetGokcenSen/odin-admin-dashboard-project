@@ -18,7 +18,7 @@ main {
     flex-direction: column;
     color: white;
     gap: 20px;
-    padding-left: 10px;
+    padding-left: 1.5rem;
 }
 
 .sidebar > div{
