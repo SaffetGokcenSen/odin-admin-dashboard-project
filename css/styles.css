@@ -50,7 +50,7 @@ main {
 }
 
 .home-subtitle, .profile-subtitle, .messages-subtitle, .history-subtitle, 
-.tasks-subtitle, .communities-subtitle, .settings-subtitle {
+.tasks-subtitle, .communities-subtitle, .settings-subtitle, .support-subtitle {
     display: flex;
     align-items: center;
     gap: 1.4rem;
