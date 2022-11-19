@@ -49,7 +49,7 @@ main {
     font-weight: bold;
 }
 
-.home-subtitle {
+.home-subtitle, .profile-subtitle {
     display: flex;
     align-items: center;
     gap: 1.4rem;
