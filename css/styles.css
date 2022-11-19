@@ -19,6 +19,7 @@ main {
     color: white;
     gap: 3.1rem;
     padding-left: 1.5rem;
+    padding-top: 1.0rem;
 }
 
 .sidebar > div > div {
