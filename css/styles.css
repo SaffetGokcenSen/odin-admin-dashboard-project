@@ -46,6 +46,12 @@ main {
     font-weight: bold;
 }
 
+.home-subtitle {
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+}
+
 .home-icon, .profile-icon, .messages-icon, .history-icon, .tasks-icon, 
 .communities-icon, .settings-icon, .support-icon, .privacy-icon {
     width: 24px;
