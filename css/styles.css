@@ -71,6 +71,11 @@ main {
     grid-row: 1 / 2;
 }
 
+.header-id {
+    grid-column: 2 / -1;
+    grid-row: 2 / 3;
+}
+
 .title-1 {
     grid-column: 2 / 4;
     grid-row: 3 / 4;
