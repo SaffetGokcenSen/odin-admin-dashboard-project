@@ -66,9 +66,9 @@ main {
     gap: 1.4rem;
 }
 
-.header {
+.header-search {
     grid-column: 2 / -1;
-    grid-row: 1 / 3;
+    grid-row: 1 / 2;
 }
 
 .title-1 {
