@@ -71,6 +71,11 @@ main {
     grid-row: 1 / 2;
 }
 
+button {
+    border: none;
+    background-color: white;
+}
+
 .header-id {
     grid-column: 2 / -1;
     grid-row: 2 / 3;
