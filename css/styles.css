@@ -73,14 +73,14 @@ main {
     align-items: center;
 }
 
-button {
-    border: none;
-    background-color: white;
-}
-
 form {
     display: flex;
     align-items: center;
+}
+
+button {
+    border: none;
+    background-color: white;
 }
 
 input {
