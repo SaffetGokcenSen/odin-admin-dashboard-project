@@ -77,6 +77,11 @@ button {
     background-color: white;
 }
 
+form {
+    display: flex;
+    align-items: center;
+}
+
 .search-icon {
     width: 24px;
     height: 24px;
