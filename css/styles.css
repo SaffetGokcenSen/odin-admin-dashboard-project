@@ -69,11 +69,17 @@ main {
 .header-search {
     grid-column: 2 / -1;
     grid-row: 1 / 2;
+    display: flex;
 }
 
 button {
     border: none;
     background-color: white;
+}
+
+.search-icon {
+    width: 24px;
+    height: 24px;
 }
 
 .header-id {
