@@ -85,6 +85,8 @@ button {
 
 input {
     width: 30vw;
+    border-radius: 1.0rem;
+    background-color: rgb(236, 228, 228);
 }
 
 .search-icon {
