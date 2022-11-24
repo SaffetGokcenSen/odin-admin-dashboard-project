@@ -98,6 +98,11 @@ input {
     height: 24px;
 }
 
+.notification-icon {
+    width: 24px;
+    height: 24px;
+}
+
 .header-id {
     grid-column: 2 / -1;
     grid-row: 2 / 3;
