@@ -88,6 +88,7 @@ input {
     height: 24px;
     border-radius: 12px;
     padding-left: 10px;
+    font-size: 1rem;
     border-style: hidden;
     background-color: rgb(236, 228, 228);
 }
