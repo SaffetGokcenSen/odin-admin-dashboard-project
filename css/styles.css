@@ -98,6 +98,10 @@ input {
     height: 24px;
 }
 
+.header-search-2 {
+    display: flex;
+}
+
 .notification-icon {
     width: 24px;
     height: 24px;
