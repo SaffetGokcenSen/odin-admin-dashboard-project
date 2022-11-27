@@ -103,6 +103,14 @@ input {
     height: 24px;
 }
 
+.user-icon {
+    width: 24px;
+    height: 24px;
+    fill:rgb(98.039216%,32.156864%,32.156864%);
+    fill-opacity: 1;
+    stroke: none;
+}
+
 .header-id {
     grid-column: 2 / -1;
     grid-row: 2 / 3;
