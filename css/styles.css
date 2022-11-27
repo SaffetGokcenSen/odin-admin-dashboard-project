@@ -106,9 +106,16 @@ input {
 .user-icon {
     width: 24px;
     height: 24px;
-    fill:rgb(98.039216%,32.156864%,32.156864%);
+    fill: rgb(98.039216%,32.156864%,32.156864%);
     fill-opacity: 1;
     stroke: none;
+}
+
+.user-icon-path {
+    stroke: none;
+    fill-rule: nonzero;
+    fill: rgb(4.705882%,4.705882%,4.705882%);
+    fill-opacity:1;
 }
 
 .header-id {
