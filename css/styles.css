@@ -135,6 +135,22 @@ input {
 .header-id {
     grid-column: 2 / -1;
     grid-row: 2 / 3;
+    display: flex;
+}
+
+.big-id-icon {
+    width: 48px;
+    height: 48px;
+    fill: rgb(98.039216%,32.156864%,32.156864%);
+    fill-opacity: 1;
+    stroke: none;
+}
+
+.big-id-icon-path {
+    stroke: none;
+    fill-rule: nonzero;
+    fill: rgb(4.705882%,4.705882%,4.705882%);
+    fill-opacity: 1;
 }
 
 .title-1 {
