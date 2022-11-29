@@ -127,6 +127,11 @@ input {
     fill-opacity:1;
 }
 
+.the-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
 .header-id {
     grid-column: 2 / -1;
     grid-row: 2 / 3;
