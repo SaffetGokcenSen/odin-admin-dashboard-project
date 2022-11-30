@@ -164,6 +164,7 @@ input[type="search"] {
 .header-id-text-part {
     display: flex;
     flex-direction: column;
+    gap: 0.5rem;
 }
 
 .header-id-button-part {
