@@ -156,6 +156,7 @@ input[type="search"] {
 .header-id-icon-part {
     display: flex;
     flex-grow: 3;
+    align-items: center;
 }
 
 .header-id-button-part {
