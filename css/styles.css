@@ -153,6 +153,10 @@ input {
     fill-opacity: 1;
 }
 
+.header-id-icon-part {
+    display: flex;
+}
+
 .title-1 {
     grid-column: 2 / 4;
     grid-row: 3 / 4;
