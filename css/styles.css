@@ -155,10 +155,12 @@ input[type="search"] {
 
 .header-id-icon-part {
     display: flex;
+    flex-grow: 3;
 }
 
 .header-id-button-part {
     display: flex;
+    flex-grow: 2;
 }
 
 .title-1 {
