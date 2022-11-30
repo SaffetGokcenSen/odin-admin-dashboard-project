@@ -164,11 +164,16 @@ input[type="search"] {
 .header-id-text-part {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.3rem;
 }
 
 .hi-text {
     font-size: 12px;
+    font-weight: bold;
+}
+
+.id-text {
+    font-size: 1.5rem;
     font-weight: bold;
 }
 
