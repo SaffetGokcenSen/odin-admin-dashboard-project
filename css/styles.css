@@ -136,6 +136,7 @@ input[type="search"] {
     grid-column: 2 / -1;
     grid-row: 2 / 3;
     display: flex;
+    align-items: center;
 }
 
 .big-id-icon {
