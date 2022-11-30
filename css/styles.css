@@ -161,6 +161,11 @@ input[type="search"] {
     margin-left: 5vw;
 }
 
+.header-id-text-part {
+    display: flex;
+    flex-direction: column;
+}
+
 .header-id-button-part {
     display: flex;
     flex-grow: 2;
