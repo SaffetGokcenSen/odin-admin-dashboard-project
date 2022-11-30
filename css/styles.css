@@ -167,6 +167,11 @@ input[type="search"] {
     gap: 0.5rem;
 }
 
+.hi-text {
+    font-size: 12px;
+    font-weight: bold;
+}
+
 .header-id-button-part {
     display: flex;
     flex-grow: 2;
