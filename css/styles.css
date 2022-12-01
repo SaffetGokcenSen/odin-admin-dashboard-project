@@ -192,6 +192,7 @@ input[type="button"] {
     height: 2vw;
     width: 4vw;
     font-weight: bold;
+    font-size: 0.9rem;
 }
 
 .title-1 {
