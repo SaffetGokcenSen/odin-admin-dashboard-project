@@ -184,6 +184,16 @@ input[type="search"] {
     gap: 2vw;
 }
 
+input[type="button"] {
+    border: none;
+    background-color: rgb(57, 119, 233);
+    color: white;
+    border-radius: 1vw;
+    height: 2vw;
+    width: 4vw;
+    font-weight: bold;
+}
+
 .title-1 {
     grid-column: 2 / 4;
     grid-row: 3 / 4;
