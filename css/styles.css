@@ -195,7 +195,7 @@ input[type="button"] {
     font-size: 0.9rem;
 }
 
-.title-1 {
+.your-projects {
     grid-column: 2 / 4;
     grid-row: 3 / 4;
     background-color: rgb(233, 227, 227);
