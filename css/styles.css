@@ -225,6 +225,14 @@ input[type="button"] {
     gap: 1rem;
 }
 
+.item {
+    background-color: white;
+    border-radius: 0.5rem;
+    margin-left: 1rem;
+    padding-left: 1rem;
+    padding-top: 2rem;
+}
+
 .item-title {
     font-size: 1rem;
     font-weight: bold;
