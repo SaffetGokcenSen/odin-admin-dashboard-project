@@ -210,7 +210,11 @@ input[type="button"] {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-} 
+}
+
+.your-projects {
+    padding-left: 1rem;
+}
 
 .items {
     grid-column: 2 / -2;
