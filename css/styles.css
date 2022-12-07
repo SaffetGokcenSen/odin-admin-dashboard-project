@@ -232,6 +232,7 @@ input[type="button"] {
     margin-left: 1rem;
     padding-left: 1rem;
     padding-top: 2rem;
+    border-left: 0.5rem solid orange;
 }
 
 .item-title {
