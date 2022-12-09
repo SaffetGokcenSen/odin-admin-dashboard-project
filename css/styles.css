@@ -199,8 +199,6 @@ input[type="button"] {
     grid-column: 2 / 4;
     grid-row: 3 / 4;
     padding-left: 1rem;
-    font-size: 1.5rem;
-    font-weight: bold;
 }
 
 .announcements {
@@ -213,6 +211,8 @@ input[type="button"] {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    font-size: 1.5rem;
+    font-weight: bold;
 }
 
 .items {
