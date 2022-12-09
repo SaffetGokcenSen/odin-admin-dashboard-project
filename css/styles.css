@@ -246,4 +246,5 @@ input[type="button"] {
     grid-column: -2 / -1;
     grid-row: 4 / -1;
     background-color: rgb(233, 227, 227);
+    padding-top: 1rem;
 }
