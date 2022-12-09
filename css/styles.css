@@ -1,3 +1,7 @@
+* {
+    outline: 1px solid red;
+}
+
 body {
     margin: 0px;
 }
@@ -247,6 +251,11 @@ input[type="button"] {
 .item-icons {
     display: flex;
     justify-content: flex-end;
+}
+
+.item-icons-style {
+    width: 24px;
+    height: 24px;
 }
 
 .announce-trend {
