@@ -235,6 +235,8 @@ input[type="button"] {
     padding-left: 1rem;
     padding-top: 2rem;
     border-left: 0.5rem solid orange;
+    display: flex;
+    flex-direction: column;
 }
 
 .item-title {
