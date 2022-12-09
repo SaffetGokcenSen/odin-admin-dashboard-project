@@ -242,7 +242,12 @@ input[type="button"] {
 .item-title {
     font-size: 1rem;
     font-weight: bold;
-} 
+}
+
+.item-icons {
+    display: flex;
+    justify-content: flex-end;
+}
 
 .announce-trend {
     grid-column: -2 / -1;
