@@ -260,4 +260,6 @@ input[type="button"] {
     grid-row: 4 / -1;
     background-color: lightblue;
     padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
 }
