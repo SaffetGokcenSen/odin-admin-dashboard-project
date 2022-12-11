@@ -263,3 +263,7 @@ input[type="button"] {
     display: flex;
     flex-direction: column;
 }
+
+.announcement-text {
+    font-size: 0.85rem;
+}
