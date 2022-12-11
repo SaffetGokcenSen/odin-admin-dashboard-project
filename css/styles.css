@@ -207,7 +207,7 @@ input[type="button"] {
 }
 
 .your-projects, .announcements {
-    background-color: rgb(126, 235, 229);
+    background-color: lightblue;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -218,7 +218,7 @@ input[type="button"] {
 .items {
     grid-column: 2 / -2;
     grid-row: 4 / -1;
-    background-color: rgb(126, 235, 229);
+    background-color: lightblue;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
@@ -258,6 +258,6 @@ input[type="button"] {
 .announce-trend {
     grid-column: -2 / -1;
     grid-row: 4 / -1;
-    background-color: rgb(126, 235, 229);
+    background-color: lightblue;
     padding-top: 1rem;
 }
