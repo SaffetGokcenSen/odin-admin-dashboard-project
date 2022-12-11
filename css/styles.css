@@ -264,6 +264,15 @@ input[type="button"] {
     flex-direction: column;
 }
 
+.announcement-part {
+    background-color: white;
+    border: none;
+    border-radius: 0.5rem;
+    margin-right: 2.0rem;
+    padding: 2.0rem;
+    padding-top: 1.0rem;
+}
+
 .announcement-text {
     font-size: 0.85rem;
 }
