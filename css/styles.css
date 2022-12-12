@@ -286,8 +286,9 @@ input[type="button"] {
     border: none;
     border-radius: 0.5rem;
     margin-right: 2.0rem;
-    padding: 2.0rem;
+    padding-left: 2.0rem;
     padding-top: 1.0rem;
+    padding-bottom: 2.0rem;
 }
 
 .trending-title {
