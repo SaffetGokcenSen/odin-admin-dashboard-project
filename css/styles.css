@@ -300,6 +300,7 @@ input[type="button"] {
     display: flex;
     align-items: center;
     gap: 1.0rem;
+    padding-top: 1.0rem;
 }
 
 .trending-icon {
