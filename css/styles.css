@@ -276,3 +276,22 @@ input[type="button"] {
 .announcement-text {
     font-size: 0.85rem;
 }
+
+.trending-part {
+    margin-top: 2.5rem;
+}
+
+.trending-icons {
+    background-color: white;
+    border: none;
+    border-radius: 0.5rem;
+    margin-right: 2.0rem;
+    padding: 2.0rem;
+    padding-top: 1.0rem;
+}
+
+.trending-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1.0rem;
+}
